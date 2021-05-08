@@ -96,7 +96,7 @@
         <com.sun.faces.jsf.version>2.2.14</com.sun.faces.jsf.version>
         <jsp-api.version>2.2</jsp-api.version>
         <taglibs.standard.version>1.1.2</taglibs.standard.version>
-        <org.springframework.security.version>4.2.3.RELEASE</org.springframework.security.version>
+        <org.springframework.security.version>5.2.9.RELEASE</org.springframework.security.version>
     </properties>
 
 </project>
