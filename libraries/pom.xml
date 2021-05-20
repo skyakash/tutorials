@@ -906,7 +906,7 @@
         <google-sheets.version>v4-rev493-1.21.0</google-sheets.version>
         <kafka.version>2.0.0</kafka.version>
         <smooks.version>1.7.0</smooks.version>
-        <docker.version>3.0.14</docker.version>
+        <docker.version>3.2.0</docker.version>
         <async.http.client.version>2.2.0</async.http.client.version>
         <infinispan.version>9.1.5.Final</infinispan.version>
         <opencsv.version>4.1</opencsv.version>
@@ -946,7 +946,7 @@
         <jgrapht.version>1.0.1</jgrapht.version>
         <docx4j.version>3.3.5</docx4j.version>
         <jaxb-api.version>2.1</jaxb-api.version>
-        <bouncycastle.version>1.58</bouncycastle.version>
+        <bouncycastle.version>1.66</bouncycastle.version>
         <jersey.version>1.19.4</jersey.version>
         <javalin.version>1.6.0</javalin.version>
         <fugue.version>4.5.1</fugue.version>
