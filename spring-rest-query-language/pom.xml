@@ -348,7 +348,7 @@
         <rsql.version>2.1.0</rsql.version>
 
         <!-- various -->
-        <xstream.version>1.4.9</xstream.version>
+        <xstream.version>1.4.17</xstream.version>
         <javassist.version>3.21.0-GA</javassist.version>
 		
         <!-- util -->
