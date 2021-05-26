@@ -22,7 +22,7 @@
         <gatling-maven-plugin.version>2.2.1</gatling-maven-plugin.version> <!--2.2.1 --> <!--2.2.4 -->
         <jmeter.version>5.0</jmeter.version>
         <grinder.version>3.11</grinder.version>
-        <spring.boot.version>2.0.5.RELEASE</spring.boot.version>
+        <spring.boot.version>2.3.0.RELEASE</spring.boot.version>
     </properties>
 
     <dependencies>
