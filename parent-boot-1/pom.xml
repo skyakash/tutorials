@@ -53,7 +53,7 @@
 	</build>
 
 	<properties>
-		<rest-assured.version>3.1.0</rest-assured.version>
+		<rest-assured.version>3.2.0</rest-assured.version>
 		<spring-boot.version>1.5.16.RELEASE</spring-boot.version>
 	</properties>
 	
