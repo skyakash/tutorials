@@ -50,9 +50,9 @@
     </dependencies>
 
     <properties>
-        <spring-security-oauth2.version>2.2.1.RELEASE</spring-security-oauth2.version>
+        <spring-security-oauth2.version>2.2.5.RELEASE</spring-security-oauth2.version>
         <spring-security-jwt.version>1.0.9.RELEASE</spring-security-jwt.version>
-        <jwks-rsa.version>0.3.0</jwks-rsa.version>
+        <jwks-rsa.version>0.9.0</jwks-rsa.version>
     </properties>
 
 </project>
