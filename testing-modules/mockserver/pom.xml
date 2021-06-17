@@ -37,8 +37,8 @@
     </dependencies>
 
     <properties>
-        <mock-sever-netty-version>3.10.8</mock-sever-netty-version>
-        <apche-http-version>4.4.1</apche-http-version>
+        <mock-sever-netty-version>5.11.2</mock-sever-netty-version>
+        <apche-http-version>4.5.13</apche-http-version>
     </properties>
 
 </project>
