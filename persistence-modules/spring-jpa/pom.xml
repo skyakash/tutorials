@@ -156,13 +156,13 @@
 
     <properties>
         <!-- Spring -->
-        <org.springframework.version>4.3.8.RELEASE</org.springframework.version>
+        <org.springframework.version>4.3.14.RELEASE</org.springframework.version>
         <javassist.version>3.21.0-GA</javassist.version>
 
         <!-- persistence -->
-        <hibernate.version>5.2.10.Final</hibernate.version>
-        <mysql-connector-java.version>6.0.6</mysql-connector-java.version>
-        <spring-data-jpa.version>1.11.3.RELEASE</spring-data-jpa.version>
+        <hibernate.version>5.4.24.Final</hibernate.version>
+        <mysql-connector-java.version>8.0.16</mysql-connector-java.version>
+        <spring-data-jpa.version>1.11.22.RELEASE</spring-data-jpa.version>
         <h2.version>1.4.195</h2.version>
 
         <!-- web -->
@@ -175,7 +175,7 @@
         <javax.el-api.version>2.2.5</javax.el-api.version>
 
         <!-- util -->
-        <guava.version>21.0</guava.version>
+        <guava.version>30.0-android</guava.version>
         <commons-lang3.version>3.5</commons-lang3.version>
         <assertj.version>3.8.0</assertj.version>
 
