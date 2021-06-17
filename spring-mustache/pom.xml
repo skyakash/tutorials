@@ -48,7 +48,7 @@
     </build>
 
     <properties>
-        <bootstrap.version>3.3.7</bootstrap.version>
+        <bootstrap.version>4.5.0</bootstrap.version>
         <datafactory.version>0.8</datafactory.version>
     </properties>
     
