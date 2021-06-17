@@ -15,7 +15,7 @@
     </parent>
     
     <properties>
-        <geode.core>1.6.0</geode.core>
+        <geode.core>1.10.0</geode.core>
     </properties>
     <build>
         <plugins>
