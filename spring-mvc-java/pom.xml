@@ -64,7 +64,7 @@
         <dependency>
             <groupId>net.sourceforge.htmlunit</groupId>
             <artifactId>htmlunit</artifactId>
-            <version>2.32</version>
+            <version>2.49.0</version>
             <exclusions>
                 <exclusion>
                     <artifactId>commons-logging</artifactId>
@@ -273,7 +273,7 @@
         <aspectj.version>1.9.1</aspectj.version>
 
         <!-- excel -->
-        <poi.version>3.16-beta1</poi.version>
+        <poi.version>4.1.1</poi.version>
 
         <javax.el.version>3.0.1-b06</javax.el.version>
 		
