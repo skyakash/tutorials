@@ -25,7 +25,7 @@
     </dependencies>
 
     <properties>
-        <atomix-all.version>1.0.0-rc9</atomix-all.version>
+        <atomix-all.version>1.0.0</atomix-all.version>
     </properties>
 
 </project>
