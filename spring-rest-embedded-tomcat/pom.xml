@@ -71,7 +71,7 @@
         <jackson.library>2.9.2</jackson.library>
         <servlet.version>4.0.0</servlet.version>
         <tomcat.version>9.0.1</tomcat.version>
-        <httpclient.version>4.5.3</httpclient.version>
+        <httpclient.version>4.5.7</httpclient.version>
         <httpcore.version>4.4.8</httpcore.version>
         <failOnMissingWebXml>false</failOnMissingWebXml>
     </properties>
