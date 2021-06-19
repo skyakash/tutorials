@@ -24,7 +24,7 @@
     </dependencies>
 
     <properties>
-        <guava.version>22.0</guava.version>
+        <guava.version>30.0-android</guava.version>
     </properties>
 
 </project>
