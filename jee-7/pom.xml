@@ -132,7 +132,7 @@
 		<dependency>
 			<groupId>org.jberet</groupId>
 			<artifactId>jberet-core</artifactId>
-			<version>1.0.2.Final</version>
+			<version>1.4.3.Final</version>
 		</dependency>
 		<dependency>
 			<groupId>org.jberet</groupId>
@@ -162,7 +162,7 @@
 		<dependency>
 			<groupId>org.jberet</groupId>
 			<artifactId>jberet-se</artifactId>
-			<version>1.0.2.Final</version>
+			<version>1.4.3.Final</version>
 		</dependency>
 		<dependency>
 			<groupId>com.h2database</groupId>
@@ -215,7 +215,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore></ignore>
+										<ignore/>
 									</action>
 								</pluginExecution>
 							</pluginExecutions>
