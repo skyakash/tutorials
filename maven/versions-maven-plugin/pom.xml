@@ -7,7 +7,7 @@
     <version>0.0.1-SNAPSHOT</version>
 
     <properties>        
-        <commons-compress-version>1.15</commons-compress-version>
+        <commons-compress-version>1.21</commons-compress-version>
     </properties>
 
     <dependencies>
